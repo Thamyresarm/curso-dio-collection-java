@@ -7,7 +7,7 @@ public class Main {
         Set<Double> notas = new HashSet<>(Arrays.asList(7d, 8.5, 9.3, 5d, 7d, 0d, 3.6)); // HashSet Ordem Aleatória e Não adiciona numero repetidos, neste caso o 7 só entra uma vez
         System.out.println(notas.toString());
 
-//        System.out.println("Exiba a posição da nota 5.0: "); // nada que tenha recerencia a posição funciona com Set
+//        System.out.println("Exiba a posição da nota 5.0: "); // nada que tenha referencia a posição funciona com Set
 
 //        System.out.println("Adicione na lista a nota 8.0 na posição 4: ");
 
